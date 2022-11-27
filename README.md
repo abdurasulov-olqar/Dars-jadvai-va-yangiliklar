@@ -1,2 +1,2 @@
-# Dars-jadvai-va-yangiliklar
-Dars jadvai va yangiliklar
+# Dars-jadvali-va-yangiliklar
+Dars jadvali va yangiliklar
